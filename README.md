@@ -7,4 +7,4 @@ This is a simple and clean digital clock application built using HTML, CSS, and 
 - Clean, minimal UI with background image from Canva (Free version).
 
 #Live Demo
-[View it here]()  
+[View it here](https://bhaktee13.github.io/Digital-clock/)  
